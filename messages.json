@@ -1,0 +1,16 @@
+{
+  "messages":{
+    "0":{
+      "message": "Hi there!",
+      "date": "Wed, 08 Jul 2015 18:14:27 GMT",
+      "author": "Vasya Pupkin",
+      "profilePic": "http://avas.at.ua/_ph/45/2/221094692.jpg?1453955430"
+    },
+    "1":{
+      "message": "Hello!!",
+      "date": "Wed, 08 Jul 2015 18:14:32 GMT",
+      "author": "Petya Dudkin",
+      "profilePic": "http://avas.at.ua/_ph/45/2/845337347.jpg?1453955494"
+    }
+  }
+}
